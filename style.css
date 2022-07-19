@@ -60,7 +60,7 @@ h3 {
 
 /* Progress */
 .progress-container {
-  background: #fff;
+  background: rgb(118, 41, 41);
   border-radius: 5px;
   cursor: pointer;
   margin: 40px 20px;
@@ -94,12 +94,16 @@ h3 {
 
 .fas {
   font-size: 30px;
-  color: rgb(129, 129, 129);
+  color: rgb(86, 6, 6);
   margin-right: 30px;
+  cursor: pointer;
+  user-select: none;
 
 }
 
-
+.fas:hover {
+  filter: brightness(50%);
+}
 
 .main-button {
   font-size: 40px;
