@@ -14,24 +14,54 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
    {
-    name: 'jacinto-1',
-    displayName: 'Electric Chill Machine',
-    artist: '****XXXX****'
+    name: 'item-1',
+    displayName: 'Are You With Me',
+    artist: 'Lost Frequencies'
    }, 
    {
-    name: 'jacinto-2',
-    displayName: 'song 2',
-    artist: '****XXXX****'
+    name: 'item-2',
+    displayName: 'P!nk',
+    artist: 'Irrelevant'
    }, 
    {
-    name: 'jacinto-3',
-    displayName: 'song 3',
-    artist: '****XXXX****'
+    name: 'item-3',
+    displayName: "Rag'n'Bone Man",
+    artist: 'Human'
    }, 
    {
-    name: 'jacinto-4',
-    displayName: 'Song 4',
-    artist: '****XXXX****'
+    name: 'item-4',
+    displayName: 'P!nk',
+    artist: 'Just Like Fire'
+   }, 
+   {
+    name: 'item-5',
+    displayName: 'Nico & Vinz',
+    artist: 'Am I Wrong'
+   }, 
+   {
+    name: 'item-6',
+    displayName: 'Nico & Vinz',
+    artist: 'Am I Wrong'
+   }, 
+   {
+    name: 'item-7',
+    displayName: 'Nico & Vinz',
+    artist: 'Am I Wrong'
+   }, 
+   {
+    name: 'item-8',
+    displayName: 'Nico & Vinz',
+    artist: 'Am I Wrong'
+   }, 
+   {
+    name: 'item-9',
+    displayName: 'Nico & Vinz',
+    artist: 'Am I Wrong'
+   }, 
+   {
+    name: 'item-10',
+    displayName: 'Nico & Vinz',
+    artist: 'Am I Wrong'
    }, 
 ];
 
