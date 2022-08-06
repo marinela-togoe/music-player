@@ -40,28 +40,43 @@ const songs = [
    }, 
    {
     name: 'item-6',
-    displayName: 'Nico & Vinz',
-    artist: 'Am I Wrong'
+    displayName: 'P!nk',
+    artist: 'A Milion Dreams'
    }, 
    {
     name: 'item-7',
-    displayName: 'Nico & Vinz',
-    artist: 'Am I Wrong'
+    displayName: 'P!nk',
+    artist: 'All I Know So Far'
    }, 
    {
     name: 'item-8',
-    displayName: 'Nico & Vinz',
-    artist: 'Am I Wrong'
+    displayName: 'Naughty Boy & Sam Smith',
+    artist: 'La La La'
    }, 
    {
     name: 'item-9',
-    displayName: 'Nico & Vinz',
-    artist: 'Am I Wrong'
+    displayName: 'Lorde',
+    artist: 'Royals'
    }, 
    {
     name: 'item-10',
-    displayName: 'Nico & Vinz',
-    artist: 'Am I Wrong'
+    displayName: 'Adele',
+    artist: 'Can I Get It'
+   }, 
+   {
+    name: 'item-11',
+    displayName: 'Adele',
+    artist: 'Easy On Me'
+   }, 
+   {
+    name: 'item-12',
+    displayName: 'Emeli Sande',
+    artist: "There Isn't Much"
+   }, 
+   {
+    name: 'item-13',
+    displayName: 'Jessie Ware',
+    artist: 'Wildest Moments'
    }, 
 ];
 
