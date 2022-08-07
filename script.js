@@ -20,63 +20,63 @@ const songs = [
    }, 
    {
     name: 'item-2',
-    displayName: 'P!nk',
-    artist: 'Irrelevant'
+    displayName: 'Irrelevant',
+    artist: 'P!nk'
    }, 
    {
     name: 'item-3',
-    displayName: "Rag'n'Bone Man",
-    artist: 'Human'
+    displayName: 'Human',
+    artist: "Rag'n'Bone Man"
    }, 
    {
     name: 'item-4',
-    displayName: 'P!nk',
-    artist: 'Just Like Fire'
+    displayName: 'Just Like Fire',
+    artist: 'P!nk'
    }, 
    {
     name: 'item-5',
-    displayName: 'Nico & Vinz',
-    artist: 'Am I Wrong'
+    displayName: 'Am I Wrong',
+    artist: 'Nico & Vinz'
    }, 
    {
     name: 'item-6',
-    displayName: 'P!nk',
-    artist: 'A Milion Dreams'
+    displayName: 'A Milion Dreams',
+    artist: 'P!nk'
    }, 
    {
     name: 'item-7',
-    displayName: 'P!nk',
-    artist: 'All I Know So Far'
+    displayName: 'All I Know So Far',
+    artist: 'P!nk'
    }, 
    {
     name: 'item-8',
-    displayName: 'Naughty Boy & Sam Smith',
-    artist: 'La La La'
+    displayName: 'La La La',
+    artist: 'Naughty Boy & Sam Smith'
    }, 
    {
     name: 'item-9',
-    displayName: 'Lorde',
-    artist: 'Royals'
+    displayName: 'Royals',
+    artist: 'Lorde'
    }, 
    {
     name: 'item-10',
-    displayName: 'Adele',
-    artist: 'Can I Get It'
+    displayName: 'Can I Get It',
+    artist: 'Adele'
    }, 
    {
     name: 'item-11',
-    displayName: 'Adele',
-    artist: 'Easy On Me'
+    displayName: 'Easy On Me',
+    artist: 'Adele'
    }, 
    {
     name: 'item-12',
-    displayName: 'Emeli Sande',
-    artist: "There Isn't Much"
+    displayName: "There Isn't Much",
+    artist: 'Emeli Sande'
    }, 
    {
     name: 'item-13',
-    displayName: 'Jessie Ware',
-    artist: 'Wildest Moments'
+    displayName: 'Wildest Moments',
+    artist: 'Jessie Ware'
    }, 
 ];
 
