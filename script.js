@@ -55,8 +55,8 @@ const songs = [
    }, 
    {
     name: 'item-9',
-    displayName: 'Royals',
-    artist: 'Lorde'
+    displayName: 'Flaws',
+    artist: 'Calum Scott'
    }, 
    {
     name: 'item-10',
@@ -78,6 +78,72 @@ const songs = [
     displayName: 'Wildest Moments',
     artist: 'Jessie Ware'
    }, 
+   {
+    name: 'item-14',
+    displayName: 'Zemer',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-15',
+    displayName: 'Hava Nagila (הבה נגילה)',
+    artist: 'Violin Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-16',
+    displayName: 'Kiss Kiss (Simarik)',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-17',
+    displayName: 'MACARENA Los Del Rio',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-18',
+    displayName: 'PRINCE IGOR',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-19',
+    displayName: 'Aerosmith-dont want to miss a thing',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-20',
+    displayName: 'Balada-Ciprian Porumbescu',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-21',
+    displayName: 'The Skylark',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-22',
+    displayName: 'Mecano - Hijo de la luna',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-23',
+    displayName: 'Jerusalema-master-kg',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-24',
+    displayName: 'Kaoma - lambada',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-25',
+    displayName: 'Michael Jackson - give in to me',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+   {
+    name: 'item-26',
+    displayName: 'Polaris',
+    artist: 'Violin Cover Cristina Kiseleff'
+   }, 
+ 
 ];
 
 
